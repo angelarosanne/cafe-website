@@ -1,0 +1,20 @@
+{
+  "coffee": [
+    {
+      "title": "Black Coffee",
+      "description": "Café preto puro, feito apenas com grãos moídos e água quente. É simples e ideal para apreciar o sabor natural do café.",
+      "ingredients": ["Café"],
+      "price": 3.0,
+      "image": "https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 1
+    },
+    {
+      "title": "Latte",
+      "description": "Uma mistura cremosa de espresso e leite vaporizado, com uma fina camada de espuma por cima. Pode ser servido puro ou com sabores adicionais, como baunilha ou caramelo.",
+      "ingredients": ["Espresso", "Leite vaporizado"],
+      "price": 4.5,
+      "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhdHRlfGVufDB8fDB8fHww",
+      "id": 2
+    }
+  ]
+}

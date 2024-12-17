@@ -1,4 +1,3 @@
-// Seleção da div root
 const root = document.getElementById("root");
 
 // Variáveis globais
@@ -169,5 +168,4 @@ function checkout() {
     });
 }
 
-// Inicialização
 renderIndexPage();
